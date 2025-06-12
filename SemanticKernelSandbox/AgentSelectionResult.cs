@@ -1,0 +1,1 @@
+﻿public record AgentSelectionResult(string name, string reason);
